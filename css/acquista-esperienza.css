@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Lora', serif;
+}
+
+#title-container{
+  text-align: center;
+}
+
+.icons-experiences{
+  width: 30px;
+}
+
+.star-container {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.star {
+  font-size: 20px;
+  color: gold;
+}
+
+.button-container {
+  float: right;
+  margin-top: 10px;
+}

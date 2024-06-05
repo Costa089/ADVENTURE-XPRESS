@@ -1,0 +1,57 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Lora', serif;
+}
+/* HEADER */
+
+
+.back-header{
+  background-color: lightgray;
+}
+
+.logo-img{
+  width: 85px;
+}
+.container-fluid{
+  margin: 0;
+}
+
+/* MAIN */
+
+#about-us{
+  text-align: center;
+  background-color: whitesmoke;
+  margin-top: 20px;
+}
+
+#about-us h2{
+  font-size: 36px;
+  color: #222;
+  margin-bottom: 30px;
+}
+
+#about-us p{
+  font-size: 18px;
+  color: #333;
+  line-height: 1.7;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* FOOTER  */
+footer{
+  background-color: lightgray;
+  border-top: 1px solid gray;
+  margin-top: 20px;
+  padding-top: 25px;
+}
+
+.footer-icons{
+  height: 34px;
+}
+
+h2, footer{
+  text-align: center;
+}
